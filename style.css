@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1 {
+    font-size: 50px;
+    padding-top: 50px;
+}
+h2 {
+    font-size: 40px;
+    padding: 20px;    
+    
+}
+.block {
+    background-color: #DA908D ;
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.allcat{
+    
+    width: 21vw;
+    height: 33vh;
+    padding-top: 20px;
+    padding-left: 2vw;
+}
